@@ -1,1 +1,1 @@
-Hello, World Version 60.6
+Hello, World Version 60.
