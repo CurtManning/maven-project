@@ -35,7 +35,7 @@
     var app = new Vue({
       el: '#app',
       data: {
-        message: 'Hello World!'
+        message: 'Hello World! Version 1.1'
       }
     })
 
@@ -67,7 +67,7 @@
     var app5 = new Vue({
     el: '#app-5',
     data: {
-        message: 'Hello Vue.js!'
+        message: 'Hello World.js!'
     },
     methods: {
         reverseMessage: function () {
