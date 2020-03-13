@@ -1,3 +1,4 @@
+<%@ page import="com.example.*" %>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -5,6 +6,9 @@
   <script src="https://unpkg.com/vue"></script>
 </head>
 <body>
+
+Let's have some fun: <%= Greeter.greet("Curt") %>
+
   <div id="app">
     {{ message }}
   </div>
