@@ -7,7 +7,7 @@
 </head>
 <body>
 
-Let's have some fun: <%= Greeter.greet("Curt") %>
+Let's have some fun: <%= Greeter.greet("Curt1") %>
 
   <div id="app">
     {{ message }}
